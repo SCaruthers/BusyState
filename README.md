@@ -3,7 +3,9 @@ Python GUI script to change Windows' busy state, e.g., to prevent screen saver f
 
 # Help Text from Script
 Read and Set the Thread Execution State.  
-The following values can be used:\n
+
+The following values can be used:
+
 ES_AWAYMODE_REQUIRED 
 Enables away mode. This value must be specified with ES_CONTINUOUS.
 Away mode should be used only by media-recording and media-distribution 
